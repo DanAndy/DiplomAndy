@@ -11,7 +11,7 @@
 
 # Акт о внедрении
 
-Находиться на подтверждении с ИП.
+Находиться на подтверждении\согласовании с ИП.
 
 https://docs.google.com/document/d/1rXf2pLlCVZ_tevFrgBlItcplCJR8TZ3QPkqv5h30524/edit?usp=sharing
 
