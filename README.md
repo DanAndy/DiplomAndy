@@ -18,3 +18,5 @@ https://docs.google.com/document/d/1rXf2pLlCVZ_tevFrgBlItcplCJR8TZ3QPkqv5h30524/
 # Документация 
 
 https://docs.google.com/document/d/1zksIoGqvcC_fPx7Xl2RLY8Ts-1n_GgR2/edit?usp=sharing&ouid=117122447762024203041&rtpof=true&sd=true
+
+@Salon_Krasotbl_bot
